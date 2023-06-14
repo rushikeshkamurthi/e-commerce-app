@@ -18,7 +18,7 @@ const Newsletter = () => {
         <button>Subscribe</button>
     </div>
     <div className="text"> Will be used in accordance with our Policy</div>
-    <dic className="social-icons">
+    <div className="social-icons">
     <div className="icon">
             <FaFacebookF size={14}/>
         </div>
@@ -31,7 +31,7 @@ const Newsletter = () => {
         <div className="icon" size={14}>
             <FaLinkedinIn/>
         </div>
-    </dic>
+    </div>
     </div>
     </div>;
 };
